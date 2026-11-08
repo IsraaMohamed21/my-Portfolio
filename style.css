@@ -1,5 +1,5 @@
 :root{
-    --main-blue: #3a6cf4;
+    --main-blue: white;
 }
 
 *{
@@ -10,7 +10,7 @@
 }
 
 header{
-    background-color: #f0f0f0;
+    background-color: #232439;
     width: 100%;
     position: fixed;
     z-index: 999;
